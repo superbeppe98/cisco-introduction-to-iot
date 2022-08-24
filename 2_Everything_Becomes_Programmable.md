@@ -1,3 +1,5 @@
+[Back to Syllabus](/README.md#course-syllabus)
+
 ## 2.0.1 Iota - Why Should I Take this Module?
 
 Hi! Me again. I hope you are excited about programming, but if you aren’t, I get it. Programming can seem daunting, but in fact, it’s easy to learn the foundations and I’m here to help. Because when you know some simple programming, you can get Things in the IoT do what you want them to do. This module lays out some of the basics, but trust me, you will not have to become an expert programmer to make things happen in the IoT!
@@ -661,3 +663,5 @@ https://www.quirky.com
 ## 2.6.2 Everything Becomes Programmable Quiz
 
 14 Quiz
+
+[Go to Next Module](./3_Everything_Generates_Data.md)

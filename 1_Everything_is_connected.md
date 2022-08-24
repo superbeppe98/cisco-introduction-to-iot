@@ -1,4 +1,4 @@
-
+[Back to Syllabus](/README.md#course-syllabus)
 
 ## 1.0.1 First time in the Course
 
@@ -268,3 +268,6 @@ A sensor typically connects to a controller using a wireless connection. Control
 
 Connecting IoT Devices to the Network
 Networks are now connecting billions of sensors and have the ability to make changes to physical environments without human intervention. The future of networking will revolve around artificial intelligence (AI) and intent-based networking (IBN). If programmed appropriately, smart devices are able to evaluate data that is provided to them and modify processes or settings. If they are provided with sufficient data, they can “learn” and modify their own code based on the new parameters.
+
+[Go to Next Module](./2_Everything_Becomes_Programmable.md)
+
