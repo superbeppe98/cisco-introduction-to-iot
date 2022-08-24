@@ -1,5 +1,4 @@
-# introduction-to-iot
-introduction to iot
+# cisco-introduction-to-iot
 
 After completing this course, you will be able to do the following:
 
