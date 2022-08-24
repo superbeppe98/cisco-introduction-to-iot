@@ -158,3 +158,113 @@ Wireless networks are those computer networks that use electromagnetic waves ins
     - Part 1: Build a Simple Network
     - Part 2: Configure the End Devices and Verify Connectivity
 
+## 1.3.1 What is the IoT?
+The internet of Things (IoT) is the connection of millions of smart devices and sensors connected to the internet. These connected devices and sensors collect and share data for use and evaluation by many organizations. These organizations include businesses, cities, governments, hospitals and individuals. The IoT has been possible, in part, due to the advent of cheap processors and wireless networks. Previously inanimate objects such as doorknobs or light bulbs can now be equipped with an intelligent sensor that can collect and transfer data to a network.
+
+Researchers estimate that there will be 38.6 billion IoT devices connected to the internet in 2025, and 50 billion by 2030. That’s 190 million new connected devices every month!
+
+Perhaps a third of connected devices will be computers, smartphones, tablets, and smart TVs. The remaining two-thirds will be other kinds of “things”: sensors, actuators, and newly invented intelligent devices that monitor, control, analyze, and optimize our world.
+
+Some examples of intelligent connected sensors are: smart doorbells, garage doors, thermostats, sports wearables, pacemakers, traffic lights, parking spots, and many others. The limit of different objects that could become intelligent sensors is limited only by our imagination.
+
+## 1.3.2 Lab - Imagine a New Intelligent Sensor
+Many devices have sensors in them that affect the operation of processes or generate data to assist governments and businesses. Use your imagination to think of devices that could be made more useful if they contained intelligent sensors
+
+## 1.3.3 What are the Benefits of Connecting these Devices?
+Many different organizations are benefitting from the data collected, saved, and analyzed from sensors.
+
+Businesses have more information about products that they sell and who is purchasing them. Armed with this type of data, they can streamline production and target their marketing and advertising to specific areas or audiences, promotes creation of new business opportunities and marketing ideas.
+
+Retailers are able to do more target marketing, reduce losses based on unsold products, and can provide loyalty bonuses for preferred or frequent customers, as well as manage types of in-store products.
+
+Manufacturing saves money, improves efficiency, and improves productivity of manufacturing processes and operations. Manufacturers reduce downtime by predicting maintenance requirements and improving scheduling of field service employees.
+
+Governments monitor environmental issues, target funding for social issues, and have informed control of power output.
+
+Cities have the ability to control traffic patterns based on time of day or major events, monitor and control garbage and recycling, monitor health and housing needs, and evaluate future transportation requirements.
+
+Individuals can reap improved fitness and health benefits, better home and family security, and reduced costs for energy and heating systems. They can enjoy more varied entertainment, limit the speed a teenage driver can reach, or even monitor the health of an older family member at the wheel of their car.
+
+## 1.3.4 Lab - Advantages and Disadvantages of IoT Devices
+In this activity, you brainstorm to determine if the advantages of collecting sensor data outweigh any disadvantages.
+
+## 1.3.5 How are IoT Devices Connected to the Network?
+This is an animations player component.
+A sensor needs to be connected to a network so that the gathered data can be stored and shared. This requires either a wired Ethernet connection or a wireless connection to a controller. While wireless Ethernet may be used, low power alternatives such as Bluetooth LE, Zigbee, or LoRa are more practicable. Controllers are responsible for collecting data from sensors and providing network or internet connectivity. Controllers may have the ability to make immediate decisions, or they may send data to a more powerful computer for analysis. This more powerful computer might be in the same LAN as the controller or might only be accessible through an internet connection.
+
+Sensors often work together with a device called an actuator. Actuators take electrical input and transform the input into physical action. As an example, if a sensor detects excess heat in a room, the sensor sends the temperature reading to the microcontroller. The microcontroller can send the data to an actuator which would then turn on the air conditioner.
+
+The majority of new devices such as fitness wearables, implanted pacemakers, air meters in a mine shaft, and water meters in a farm field all require wireless connectivity. Because many sensors are “out in the field” and are powered by batteries or solar panels, consideration must be given to power consumption. Low-powered connection options must be used to optimize and extend the availability of the sensor.
+
+## 1.4.1 Video - Add IoT Devices in Packet Tracer
+Packet Tracer lets you simulate real networks, including smart networks that make use of IoT devices. It provides a number of IoT devices for a Smart Home network.
+
+Click Play in this video to learn more about the IoT devices that are available to you in Packet Tracer.
+
+## 1.4.2 Packet Tracer - Add IoT Devices in Packet Tracer
+In this Packet Tracer activity, you will complete the following objectives:
+
+Part 1: Explore the Existing Smart Home Network
+Part 2: Add Wireless IoT Devices to the Smart Home Network
+Part 3: Add Wired IoT Devices to the Smart Home Network
+
+## 1.4.3 Video - Connect Devices to a Home Gateway and Monitor Network
+This is a media player component. Select the play / pause button to watch or listen.
+Packet Tracer allows you to connect IoT devices to a home gateway device. By connecting to the home gateway, you can monitor the connected devices
+
+Click Play in this video to learn about connecting and monitoring IoT devices
+
+## 1.4.4 Packet Tracer - Connect Devices to a Home Gateway and Monitor Your Network
+In this Packet Tracer activity, you will complete the following objectives:
+
+Part 1: Connect a Home Gateway to the Network
+Part 2: Add End User Devices to the Network
+Part 3: Connect IoT Devices to the Network
+Part 4: Add Bluetooth Devices
+
+## 1.4.5 Video - Cisco Intent-Based Networking
+This is a media player component. Select the play / pause button to watch or listen.
+Networks are now connecting billions of sensors. Through software, the data from these sensors can cause changes to physical environments without human intervention.
+
+As was mentioned previously, all digital devices work based on computer programs and supplied data. Artificial Intelligence implies that these devices are able to think on their own. If programmed appropriately, smart devices are able to evaluate data that is provided to them and modify processes or settings immediately. If they are provided with sufficient data, they can “learn” and modify their own code based on the new parameters.
+
+So what comes next?
+
+We know that software can be written to let data modify parameters within code for changing the temperature setting in your home or the speed with which your teenager can drive the family car. Why could we not provide software with rules, guidelines, or intent so that data could modify the network, infrastructure features, or security features within a network? This is actually already possible. It is called Intent-Based Networking (IBN).
+
+Here is a simple example to better understand the concept of IBN: The business may define that a contract employee is given access to only a specific set of data and applications. This is the intent. In an intent-based networking system (IBN), all the network devices will be automatically configured to fulfill this requirement across the network, no matter where the employee is connected. VLAN, subnet, ACL and all other details will be automatically defined and configured following best practices. The intent has to be defined once in a central management console, and then, the network will continuously assure it, even if there are changes in the network.
+
+Click Play to watch a video showing the use of Cisco’s version of IBN.
+
+
+## 1.4.6 Video - The Future of Networking
+This is a media player component. Select the play / pause button to watch or listen.
+Cisco Digital Network Architecture (DNA) offers a promising future for managing the networks of the future.
+
+Click Play to view a video explanation of Cisco DNA.
+
+
+## 1.4.7 Iota - Reflection
+“Trillions of gigabytes of data” can be...well, quite difficult to comprehend! But you are learning how enormous the IoT is! For most of us, the IoT is first encountered in our homes, or schools, or places of work. For example, there may be smoke detectors in any or all of these places. Smoke detectors are commonly used sensors for safety and security. What other evidence of the IoT can you think of in your own life or in the lives of your friends and family?
+
+
+## 1.5.1 Everything is Connected Summary
+
+Digitization Transforms Business
+The world is quickly being covered with networks which allow digital devices to interconnect and transmit. As digital networks continue to grow around the world, and as the economic benefits of digitization continue to grow, we are seeing a digital transformation. Digital transformation is the application of digital technology to provide the stage for business and industry to innovate.
+
+Sensors are now everywhere, collecting and transmitting massive amounts of data. The generated data can be stored and analyzed at a later date, or it can be analyzed and used immediately. The analyzed data is used by governments, cities, businesses, and individuals to effect changes such as monitoring the environment, forecasting population growth, controlling waste management, or securing a home.
+
+Globally Connected Through Networks
+Networks form the foundation of the digitized world. There are many types of networks that are characterized by their geographic size, by the number of devices or networks that they connect, and by whether they support mobile devices or not. Networks can also be characterized by their function and purpose.
+PAN: Bluetooth
+LAN
+WAN: Internet, the cloud, edge computing
+Wireless: Wi-Fi, Cellula
+
+The Growth of IoT Devices
+A sensor typically connects to a controller using a wireless connection. Controllers collect data from sensors and send the data for storage or analysis. Controllers may have the ability to make immediate decisions, or they may work together with a device called an actuator. Actuators take electrical input and transform the input into physical action.
+
+
+Connecting IoT Devices to the Network
+Networks are now connecting billions of sensors and have the ability to make changes to physical environments without human intervention. The future of networking will revolve around artificial intelligence (AI) and intent-based networking (IBN). If programmed appropriately, smart devices are able to evaluate data that is provided to them and modify processes or settings. If they are provided with sufficient data, they can “learn” and modify their own code based on the new parameters.
