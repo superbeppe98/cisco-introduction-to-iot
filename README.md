@@ -4,6 +4,7 @@
 - Module 1: [Everything is connected](./1_Everything_is_connected.md)
 - Module 2: [Everything becomes programmable](./2_Everything_Becomes_Programmable.md)
 - Module 3: [Everything generates data](./3_Everything_Generates_Data.md)
+- Module 4: [Everything can be Automated](./4_Everything_can_be_Automated.md)
 <br>
 
 ## Course Overview
