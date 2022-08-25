@@ -1,3 +1,5 @@
+[Back to Syllabus](/README.md#course-syllabus)
+
 ## 3.0.1 Iota - Why Should I Take this Module?
 
 - Still with me? Great! Because this module might just blow your mind. The IoT relies on data, and lots of it. What do I mean by data? Well, where you live is data. Your birthday is data. Your blood type is data. Almost everything can be qualified (and quantified) as data. When you click ‘Like’ on various social media platforms, that is a little piece of data that gets added to thousands, and even millions of other little pieces of data. The IoT is all about people finding uses for all that data, and you can too
