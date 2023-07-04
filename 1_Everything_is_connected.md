@@ -71,7 +71,7 @@ Governments monitor the environment, forecast population trends, predict crime r
 - Example 1: Weight sensors in parking spaces allow drivers to quickly know where there is an available parking spot. This reduces driving and idling time for the driver and lowers carbon emissions for the environment
 - Example 2: Sensors on traffic lights can detect traffic congestion. This data is sent to the computer system that collects data and make decisions. The new decisions are sent to actuators that modify red versus green light times to assist the flow of traffic. This also alleviates idling but also reduces driver frustration and accidents
 
--Self-driving cars are revolutionizing transportation. The cars are equipped with many ultrasound sensors, cameras, precision GPSs, and computers. The combination of the on-board equipment allows the computers to identify, other cars, lanes, pedestrians, and obstructions. This information allows the car to stay in its lane, stop when required, and weave around obstructions
+- Self-driving cars are revolutionizing transportation. The cars are equipped with many ultrasound sensors, cameras, precision GPSs, and computers. The combination of the on-board equipment allows the computers to identify, other cars, lanes, pedestrians, and obstructions. This information allows the car to stay in its lane, stop when required, and weave around obstructions
 - Some of the manufacturers in the "autonomous car" market are Tesla Motors, General Motors, Volvo, and Mercedes-Benz. Corporations such as Waymo, Google's sibling, and Uber are also designing and testing the technology
 - The road to complete autonomy using this technology is complicated. There have been many high profile crashes and some serious accidents involving self-driving cars. Some states within the USA have already approved limited use of self-driving cars but researchers believe it will be a few years before the technology becomes mainstream
 - Once the technology is proven, what is next? Self-driving trucks? Airplanes? Trains?
@@ -165,7 +165,7 @@ connected to the internet. These connected devices and sensors collect and share
 
 ## 1.3.4 Lab - Advantages and Disadvantages of IoT Devices
 
--In this activity, you brainstorm to determine if the advantages of collecting sensor data outweigh any disadvantages
+- In this activity, you brainstorm to determine if the advantages of collecting sensor data outweigh any disadvantages
 
 ## 1.3.5 How are IoT Devices Connected to the Network?
 
@@ -221,7 +221,7 @@ Click Play to view a video explanation of Cisco DNA.
 
 ## 1.5.1 Everything is Connected Summary
 
- -Digitization Transforms Business
+- Digitization Transforms Business
     - The world is quickly being covered with networks which allow digital devices to interconnect and transmit. As digital networks continue to grow around the world, and as the economic benefits of digitization continue to grow, we are seeing a digital transformation. Digital transformation is the application of digital technology to provide the stage for business and industry to innovate
 - Sensors are now everywhere, collecting and transmitting massive amounts of data. The generated data can be stored and analyzed at a later date, or it can be analyzed and used immediately. The analyzed data is used by governments, cities, businesses, and individuals to effect changes such as monitoring the environment, forecasting population growth, controlling waste management, or securing a home
 - Globally Connected Through Networks

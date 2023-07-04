@@ -30,7 +30,7 @@
 
 ## 3.1.2 Check Your Understanding - Identify Scenarios that Generate Big Data
 
- -Check your understanding of big data by choosing the correct answer to the following questions
+- Check your understanding of big data by choosing the correct answer to the following questions
 
 - 3 Quiz
 

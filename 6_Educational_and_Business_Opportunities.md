@@ -26,7 +26,7 @@
 
 ## 6.1.3 The Evolving Job Market
 
--The IoT is changing the job market. Traditional jobs are being replaced with jobs that are designed to embrace this new world and all it offers
+- The IoT is changing the job market. Traditional jobs are being replaced with jobs that are designed to embrace this new world and all it offers
 - In IT, opportunities may be specific to edge computing, developing new processes, or a specialization in a discipline that has not yet been realized. These jobs reflect skills spanning multiple disciplines that include computer science, computer engineering (a blend of computer science and electrical engineering), and software engineering in the following areas:
     - Artificial Intelligence
     - Application Development
@@ -50,9 +50,9 @@
 
 ## 6.1.5 Lifelong Learning
 
-With the ever-changing landscape of the digitized world, we must stay current in order to realize the full potential of what the IoT has to offer.
+- With the ever-changing landscape of the digitized world, we must stay current in order to realize the full potential of what the IoT has to offer
 
-The job market will continue to offer more opportunities as new technologies evolve. The skill sets required for these jobs will evolve at the same time, thus creating the need for lifelong learning.
+- The job market will continue to offer more opportunities as new technologies evolve. The skill sets required for these jobs will evolve at the same time, thus creating the need for lifelong learning
 
 ## 6.2.1 Communities of Interest
 - A community of interest is a group of people who share a common interest or passion about a specific topic. These people get together to share information and ideas about this topic
@@ -140,10 +140,6 @@ The job market will continue to offer more opportunities as new technologies evo
 - Is there something you would like to be able to automate to make your life, or the life of someone else easier, or safer, or just more fun?
 - And finally, does having a challenging and rewarding career in the IoT appeal to you? If so, we have many other courses that will help you develop your networking, cybersecurity, and IoT skills. I hope I see you back here soon!
 
-## 6.3.7 You are now at the end of the course. Congratulate yourself!6.3.7 You are now at the end of the course. Congratulate yourself!
+## 6.3.7 You are now at the end of the course. Congratulate yourself!
 
 Simply answer these next two questions to receive your last achievement!
-
-
-
-

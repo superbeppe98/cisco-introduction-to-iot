@@ -120,7 +120,7 @@
 
 ## 5.2.6 Packet Tracer - Configure Wireless Security
 
--In this Packet Tracer activity, you will secure a wireless router on a home network
+- In this Packet Tracer activity, you will secure a wireless router on a home network
 
 ## 5.2.7 Check Your Understanding - Protecting the Corporate World
 
